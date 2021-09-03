@@ -1,6 +1,7 @@
 import 'package:get/state_manager.dart';
-import 'package:getxpractise/API/model.dart';
-import 'package:getxpractise/API/services.dart';
+
+import 'model.dart';
+import 'services.dart';
 
 class UiController extends GetxController {
   var uiData = <DataModel>[];

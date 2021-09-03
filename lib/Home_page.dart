@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:getxpractise/API/UI.dart';
 import 'package:getxpractise/homepage_controller.dart';
+
+import 'Rest Api/UI.dart';
 
 // ignore: must_be_immutable
 class HomePage extends StatelessWidget {

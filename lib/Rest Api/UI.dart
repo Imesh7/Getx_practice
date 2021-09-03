@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:getxpractise/API/ui_controllers.dart';
+import 'ui_controllers.dart';
 
 class UiPage extends StatelessWidget {
   UiPage({Key? key}) : super(key: key);
