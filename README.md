@@ -1,6 +1,6 @@
-# GetX  practise
+# Flutter GetX  practise
 
-A new Flutter project.
+This project is guiding you to How to use Getx, Flutter state management.
 
 ## Getting Started
 
