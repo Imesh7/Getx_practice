@@ -16,7 +16,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-Getx practise - issue/problems which I have on with 
+#  Getx practise - issue/problems which I have on with 
 
 while using getx what I have is when you are wraping you widgets with GetBuilder with the controller, before that you shoul add that controller to the Get.put(controller()),  that will inject to the memoty.
 
